@@ -6,7 +6,7 @@
 
 **[Скачать последнюю версию (bitva-slov.apk)](https://github.com/kodkid1/bitva-slov-apk/raw/main/bitva-slov.apk)**
 
-Текущая версия: **1.8.1**
+Текущая версия: **1.9**
 
 ## Как установить
 
